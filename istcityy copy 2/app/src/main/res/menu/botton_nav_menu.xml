@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Ana sayfa" />
+    <item
+        android:id="@+id/visit"
+        android:icon="@drawable/baseline_location_on_24"
+        android:title="Gezi" />
+
+    <item
+        android:id="@+id/restorant"
+        android:icon="@drawable/baseline_restaurant_24"
+        android:title="Yemek" />
+
+    <item
+        android:id="@+id/hospital"
+        android:icon="@drawable/baseline_local_hospital_24"
+        android:title="Sağlık" />
+    <item
+        android:id="@+id/user"
+        android:icon="@drawable/baseline_account_circle_24"
+        android:title="Kullanıcı" />
+</menu>

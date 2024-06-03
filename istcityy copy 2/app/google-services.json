@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52738418619",
+    "project_id": "myaplicationistcity",
+    "storage_bucket": "myaplicationistcity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52738418619:android:34fa91335ebd0fdcc9469e",
+        "android_client_info": {
+          "package_name": "com.example.istcityy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTLoaooHDb-NIdz05IBgRtoCkAXm6iOvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
